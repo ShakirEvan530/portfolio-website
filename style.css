@@ -106,7 +106,9 @@ main{
     text-align: center;
 }
 /* about section style*/
-
+#what-i-do-description{
+    padding: 30px 150px;
+}
 
 
 
